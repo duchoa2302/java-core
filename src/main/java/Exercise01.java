@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Exercise01 {
+public class Exercise01 {
+    void question01(){
+
+    }
 }
